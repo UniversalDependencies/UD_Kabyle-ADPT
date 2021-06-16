@@ -1,21 +1,21 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD UD_Kabyle-ADPT (Association pour le Développement et la Promotion de Tamazight) is a treebank of Berber (Kabyle variant),
+annotated according to the Universal Dependencies guidelines.
 
 # Introduction
 
-...
+Actually,until we are writing this document, there is no ISO 639 language code for the Berber language, So here we Use the Kabyle variant.
+We Use a latin transcription (so called Tam3amrit) as writing system. 
+We hope nearly release a new treebank using Tifinagh as it is the official and original writing system. 
+The main part of the annotated sentences come from 3 different news texts describing daily life. 
+This corpus is manually annotated with help of some UD Tools. 
 
+# Structure
 
-# Acknowledgments
-
-...
-
-## References
-
-* (citation)
-
+This directory contains a corpus of sentences annotated using Universal
+Dependencies annotation. The corpus comprises 6,315 words and 1,930
+sentences, 
 
 # Changelog
 
