@@ -1183,7 +1183,7 @@
 10	wayen	ayen	PRON	_	PronType=Dem	13	nsubj	_	_
 11	i	i	PRON	_	_	10	obl	_	_
 12-13	yi-xḍan	_	_	_	_	_	_	_	SpaceAfter=No
-12	yi	nekk	PRON	NN	Case=Nom|Number=Sing|Person=1|PronType=Prs	013	obj	_	_
+12	yi	nekk	PRON	NN	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
 13	xḍan	exḍu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 

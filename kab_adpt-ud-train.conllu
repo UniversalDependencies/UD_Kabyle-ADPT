@@ -19537,7 +19537,7 @@
 5	tin	wina	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	obl	_	_
 6	i	i	PRON	_	_	1	obl	_	_
 7-9	t-id-issegman	_	_	_	_	_	_	_	SpaceAfter=No
-7	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	09	obj	_	_
+7	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 8	id	wu	PRON	_	PronType=Rel	9	amod	_	_
 9	issegman	essegmu	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	_
@@ -36450,7 +36450,7 @@
 10	wayen	ayen	PRON	_	PronType=Dem	13	nsubj	_	_
 11	i	i	PRON	_	_	10	obl	_	_
 12-13	yi-xḍan	_	_	_	_	_	_	_	SpaceAfter=No
-12	yi	nekk	PRON	NN	Case=Nom|Number=Sing|Person=1|PronType=Prs	013	obj	_	_
+12	yi	nekk	PRON	NN	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
 13	xḍan	exḍu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
