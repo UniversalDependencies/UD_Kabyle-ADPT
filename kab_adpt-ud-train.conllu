@@ -4419,7 +4419,7 @@
 7	is	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	6	det	_	_
 8	ur	ur	ADV	_	Polarity=Neg	9	advmod	_	_
 9	ǧin	eǧǧ	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	acl	_	Cycle=3:8:9
-10	iris	ers	VERB	VB	Gender=Masc|Person=3|Tense=Past|VerbForm=Ind	1	conj	_	_
+10	iris	ers	VERB	VB	Gender=Masc|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 11-12	fell-as	_	_	_	_	_	_	_	SpaceAfter=No
 11	fell	fell	ADP	_	_	8	acl	_	_
 12	as	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	8	acl	_	_

@@ -198,7 +198,7 @@
 7	n	an	ADP	_	_	8	case	_	_
 8	takka	takka	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nmod	_	_
 9	ur	ur	ADV	_	Polarity=Neg	10	advmod	_	_
-10	iris	ers	VERB	VB	Gender=Masc|Person=3|Tense=Past|VerbForm=Ind	4	conj	_	_
+10	iris	ers	VERB	VB	Gender=Masc|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 11-12	fell-asent	_	_	_	_	_	_	_	SpaceAfter=No
 11	fell	fell	ADP	_	_	12	case	_	_
 12	asent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	10	obl	_	_
