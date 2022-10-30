@@ -13805,7 +13805,7 @@
 3	ad	ad	PART	_	_	2	advmod	_	_
 4	kan	kan	ADV	_	_	7	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_
-6	am	akkam	ADV	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	7	advmod	_	_
+6	am	akkam	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	7	advmod	_	_
 7	izimer	izimer	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
 8	i	i	ADP	_	_	0	case	_	Cycle=8
 9	tullsa	tullsa	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	acl	_	SpaceAfter=No
