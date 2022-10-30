@@ -1,4 +1,4 @@
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1
 # text = D wa id asaḍuf n ugama i deg i d-yekker: yal yiwen iḥebber kan i wid-is.
@@ -27,7 +27,7 @@
 20	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod	_	_
 21	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 2
 # text = Di taggara n ddurt, yettemlil netta d wid-is, inezmaren nniḍen am netta, di tzeqqa-nnsen.
@@ -61,7 +61,7 @@
 23	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod	_	_
 24	.	.	PUNCT	_	_	23	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 3
 # text = Msebḍan yiwet n tallit, ass mi tefra msuɣalen.
@@ -76,7 +76,7 @@
 9	msuɣalen	emsuɣal	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 4
 # text = Yuɣal yexza cciṭan.
@@ -85,7 +85,7 @@
 3	cciṭan	acciṭan	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 5
 # text = Neɣ ad tesweḍ kra n lwiski.
@@ -97,7 +97,7 @@
 6	lwiski	alwiski	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 6
 # text = S tidet!
@@ -105,7 +105,7 @@
 2	tidet	tidett	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 7
 # text = Qqaren din, qqimen din.
@@ -116,7 +116,7 @@
 5	din	dina	ADV	_	PronType=Dem	4	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 8
 # text = Yak nnbi yella d amerkanti!
@@ -127,7 +127,7 @@
 5	amerkanti	amerkanti	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 9
 # text = Kra yellan d azamul n uwanek nnsen yettwaɣḍel, yettwarkeḍ di tmurt.
@@ -149,7 +149,7 @@
 14	tmurt	tamurt	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	11	acl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	11	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 10
 # text = d udem akiwan ur d-nberru i wefra.
@@ -164,7 +164,7 @@
 8	wefra	afaru	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 11
 # text = Kkant nnig-s
@@ -174,7 +174,7 @@
 3	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	acl	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 12
 # text = Akk-a akk i tḍerru, yid-sen, d ikeyyafen.
@@ -193,7 +193,7 @@
 11	ikeyyafen	ikeyyafen	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 13
 # text = Ddu, ddu Meqqar nutni ttmektayen-d Rebbi.
@@ -208,7 +208,7 @@
 8	Rebbi	arebbi	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 14
 # text = Uḥemmu, i tikkelt tamezwarut, yufa deg-s talwit.
@@ -226,14 +226,14 @@
 11	talwit	alwi	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 15
 # text = Isusem.
 1	Isusem	esusem	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 16
 # text = Yerfed adalen-is iẓayanen iggumma ad t-iwali, izeṭṭel swa swa kan;
@@ -254,7 +254,7 @@
 13	kan	kan	ADV	_	_	10	advmod	_	SpaceAfter=No
 14	;	;	PUNCT	_	_	10	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 17
 # text = Ffɣeɣ imi teffɣeḍ, deffir-k kan!
@@ -268,7 +268,7 @@
 7	kan	kan	ADV	_	_	6	advmod	_	SpaceAfter=No
 8	!	!	PUNCT	_	_	7	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 18
 # text = Ad ilin kksen aɣbel, tiserfin gren deg-sent iɣerfan.
@@ -286,7 +286,7 @@
 11	iɣerfan	iɣerfan	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 19
 # text = Ihi ad tt-nbeddel.
@@ -297,7 +297,7 @@
 4	nbeddel	ebeddel	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 20
 # text = Weddan, ẓullen.
@@ -306,7 +306,7 @@
 3	ẓullen	eẓall	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 21
 # text = Baba-s, di lferḥ-nni, yenwa ad as-isemmi ɣef lejdud.
@@ -330,7 +330,7 @@
 14	lejdud	lejad	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	12	acl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	9	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 22
 # text = Ma yessagwer amur ad t-bḍunt, ma ur yessagwer tin iseqḍen tesqeḍ, yiwen deg imarawen nnsent ur d-icqi deg-sent.
@@ -367,7 +367,7 @@
 26	sent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	obl	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	15	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 23
 # text = Tafekka-s tettali-tt tasmuḍi seg war angugi.
@@ -383,7 +383,7 @@
 8	angugi	angugi	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 24
 # text = Ula d akud yesbeḍ yeggumma ad yeddu.
@@ -396,7 +396,7 @@
 7	yeddu	eddu	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 25
 # text = Azwaw, iwalan Ṭiṭem isfesx-itt usefru, tneffeg-d deg-s takti: asefru ziɣ ikeččem deg ulawen, yezmer ad yesseḍs;
@@ -431,14 +431,14 @@
 25	yesseḍs	esseḍs	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	xcomp	_	SpaceAfter=No
 26	;	;	PUNCT	_	_	25	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 26
 # text = Tsusem!
 1	Tsusem	esusem	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 27
 # text = Akud yesbeḍ deg-sen ur nnernan ur ttwagezmen.
@@ -454,7 +454,7 @@
 9	ttwagezmen	egezam	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 28
 # text = Annect-nni n tyugwin n tiṭṭawin i tt-id-yeflan ur sent-tgi azal.
@@ -477,7 +477,7 @@
 14	azal	azal	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	_
 15	.	.	PUNCT	_	_	14	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 29
 # text = Iwala lhem yettrajun sin-nni;
@@ -489,7 +489,7 @@
 5	nni	ani	ADV	RB	PronType=Dem	3	advmod	_	_
 6	;	;	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 30
 # text = ur d-yecqi deg ubeɣḍi;
@@ -503,7 +503,7 @@
 6	ubeɣḍi	abeɣḍi	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 7	;	;	PUNCT	_	_	6	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 31
 # text = Imcumen-a neɣ ilfan-a, akken i sen-tsemmaḍ kečč, yesdukklen admer, ur ddukklen kan anagar ɣef ugdud, acku yes-s i yellan.
@@ -540,7 +540,7 @@
 27	yellan	eql	VERB	VB	Tense=Pres|VerbForm=Part	17	ccomp	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	27	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 32
 # text = Amdan yeɛkef, yeẓqef, yesmuhu, yeshumsus, am umeslub war iswi, war izri, war imal, akud yettazu kan deg-s.
@@ -573,7 +573,7 @@
 26	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	iobj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	26	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 33
 # text = Tudert-iw.
@@ -582,7 +582,7 @@
 2	iw	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 34
 # text = mcerragen medden gar-asen am yextan.
@@ -595,7 +595,7 @@
 6	yextan	extan	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 35
 # text = Temẓi deg-s asirem, deg-s tazmert, deg-s tibbuhelt.
@@ -619,7 +619,7 @@
 15	tibbuhelt	tibbuhelt	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 36
 # text = D amuḍin
@@ -627,7 +627,7 @@
 2	amuḍin	amuḍin	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 37
 # text = Nniɣ-ak ay Azwaw kker ad nruḥ, keč a teqqareḍ ger-iyi-n ger iɣallen-im.
@@ -654,7 +654,7 @@
 18	im	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 19	.	.	PUNCT	_	_	9	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 38
 # text = Ahat di lqern yezrin
@@ -666,7 +666,7 @@
 5	yezrin	ezri	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 39
 # text = Neḥwaǧ-ik a nnbi s wass-a!
@@ -681,7 +681,7 @@
 7	a	agi	ADV	_	_	6	advmod	_	_
 8	!	!	PUNCT	_	_	7	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 40
 # text = Kra yeḍran yettaweḍ-it-id.
@@ -693,14 +693,14 @@
 5	id	id	ADV	_	PronType=Rel	4	advmod	_	_
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 261
 # text = Yah!
 1	Yah	yah	INTJ	UH	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 264
 # text = Ma nedder!
@@ -708,7 +708,7 @@
 2	nedder	idir	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 308
 # text = Tamurt-nneɣ ur teqqim akken i tt-nebna, akken i tt-nessen.
@@ -731,7 +731,7 @@
 14	nessen	essin	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	9	conj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 367
 # text = Susmen, akken di sin, tirmelt.
@@ -746,7 +746,7 @@
 8	tirmelt	tirmelt	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 460
 # text = Nek bɣiɣ iɣellaten-nnsen.
@@ -758,7 +758,7 @@
 5	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 468
 # text = Get-asen akken i wen-yehwa
@@ -772,7 +772,7 @@
 6	yehwa	ehwu	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 734
 # text = Ma tebɣiḍ ad k-ssegneɣ ciṭuḥ, yya-n s axxam-iw.
@@ -793,7 +793,7 @@
 12	iw	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1034
 # text = Ad t-nessers kan Muḥemmed, ad nerbeḥ ad t-naf!
@@ -812,7 +812,7 @@
 11	naf	aff	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	8	conj	_	SpaceAfter=No
 12	!	!	PUNCT	_	_	11	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1288
 # text = Tixer i teqcict, d nek i d-yekksen tawwurt i Ṭiṭem, d nek i s-d-yefkan lqahwa!
@@ -840,7 +840,7 @@
 20	lqahwa	alqahwa	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 21	!	!	PUNCT	_	_	20	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1440
 # text = D acu i sen-xedmen wi yeɣran?
@@ -854,7 +854,7 @@
 7	yeɣran	eɣar	VERB	VB	Tense=Pres|VerbForm=Part	5	ccomp	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	7	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1465
 # text = Anwa i wmi ara tgezmeḍ abrid tura ?
@@ -867,7 +867,7 @@
 7	tura	tura	ADV	_	_	5	advmod	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1606
 # text = Icaḍ-aɣ unezgum ass-a, ay Azwaw!
@@ -883,7 +883,7 @@
 8	Azwaw	azwaw	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
 9	!	!	PUNCT	_	_	8	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1642
 # text = Di tmurt n yinselmen neɣ di tmurt ur ẓriɣ n wacu, tikklet i d tudert nneɣ!
@@ -912,7 +912,7 @@
 20	aɣ	nekwn	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	18	nmod	_	SpaceAfter=No
 21	!	!	PUNCT	_	_	18	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1786
 # text = Nniɣ-ak ulac aɣrum!
@@ -923,7 +923,7 @@
 4	aɣrum	aɣrum	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1856
 # text = Tezriḍ kan ar t-ineɣ!
@@ -935,7 +935,7 @@
 5	ineɣ	eneɣ	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1860
 # text = Akk-a i d-nniɣ ih, ti ḍerrunt zik.
@@ -953,7 +953,7 @@
 10	zik	zik	ADV	_	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1877
 # text = Yerna wi, Azwaw yettkemmil amzun ur yesli i wawal n Ṭiṭem, ur ttrajun yiwen ar d yergem di ddin neɣ di Rebbi akken ad t-azun.
@@ -992,7 +992,7 @@
 30	azun	azu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	15	conj	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	30	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1884
 # text = Ayen din n tedyanin tiwelɛarin ur d-nettwabdar, ur ssengugant agdud-nneɣ ikennan s asif asusam.
@@ -1018,7 +1018,7 @@
 18	asusam	asusam	ADJ	JJ	Gender=Masc|Number=Sing	17	adjmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1908
 # text = Agdud-a tejjmeḍ ay Azwaw!
@@ -1030,7 +1030,7 @@
 5	Azwaw	azwaw	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1910
 # text = Ad t-id-narew?
@@ -1041,7 +1041,7 @@
 4	narew	arew	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1338
 # text = Timetti-nni i ten-yeǧǧan, iteddun ɣer zdat s tazzla, s urured, yessefk ad tt-leḥqen.
@@ -1069,7 +1069,7 @@
 19	leḥqen	eleḥaq	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	acl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	17	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 465
 # text = D awal-ik, Jiniral!
@@ -1081,7 +1081,7 @@
 5	Jiniral	jiniral	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 483
 # text = Ismuqul deg-s, aqrur yetteflawa, taqadumt ffɣen-tt idammen;
@@ -1101,7 +1101,7 @@
 12	idammen	idammen	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	9	acl	_	SpaceAfter=No
 13	;	;	PUNCT	_	_	11	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 511
 # text = Ikecm-d ur s-yuki, ahat yesla-d i tiɣwas?
@@ -1121,7 +1121,7 @@
 11	tiɣwas	tiɣwast	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
 12	?	?	PUNCT	_	_	7	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 530
 # text = Ad yeǧǧ amkan i wiyaḍ?
@@ -1132,7 +1132,7 @@
 5	wiyaḍ	wiyaḍ	PRON	_	Gender=Masc|Number=Plur|Person=3	2	acl	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 244
 # text = Ɣur-i nek s wallen i tent-ferruɣ, war ma neṭqeɣ-d!
@@ -1154,7 +1154,7 @@
 13	d	ad	PART	_	_	12	advmod	_	SpaceAfter=No
 14	!	!	PUNCT	_	_	10	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 252
 # text = Nek ttẓallaɣ tura.
@@ -1163,7 +1163,7 @@
 3	tura	tura	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 272
 # text = Suref-iyi ad d-greɣ iman-iw deg wayen i yi-xḍan.
@@ -1187,7 +1187,7 @@
 13	xḍan	exḍu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 304
 # text = Ma tebɣiḍ d tajmaɛt nneɣ.
@@ -1200,7 +1200,7 @@
 6	aɣ	nekwn	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 354
 # text = Acku, d ta i d tannumi-nneɣ.
@@ -1216,7 +1216,7 @@
 9	aɣ	nekwn	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 518
 # text = Ur ǧin isugen, ula tikkelt, ad awḍen iserdasen-is ɣer yigan yecban wi;
@@ -1238,7 +1238,7 @@
 15	wi	wi	PRON	_	PronType=int	14	obj	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	15	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 621
 # text = Di tlemmast n webrid i ttẓallan tura!
@@ -1253,7 +1253,7 @@
 8	tura	tura	ADV	_	_	7	advmod	_	SpaceAfter=No
 9	!	!	PUNCT	_	_	2	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 862
 # text = Am netta, iḥemmel ad yini: «nek d azedgan».
@@ -1271,7 +1271,7 @@
 12	»	»	PUNCT	_	_	11	punct	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1202
 # text = A t-ah!
@@ -1281,7 +1281,7 @@
 3	ah	ha	VERB	VB	Mood=Imp	1	conj	_	SpaceAfter=No
 4	!	!	PUNCT	_	_	3	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1272
 # text = Yak aql-i deg uxxam, timeḥremt i tuffɣa kan.
@@ -1300,7 +1300,7 @@
 11	kan	kan	ADV	_	_	10	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1788
 # text = Ɣiwel neɣ ad k-rekkleɣ.
@@ -1312,7 +1312,7 @@
 5	rekkleɣ	erekkal	VERB	VB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	xcomp	_	_
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1802
 # text = Ad tkenfem d imuddiren;
@@ -1322,7 +1322,7 @@
 4	imuddiren	imuddiren	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	;	;	PUNCT	_	_	4	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1827
 # text = nettwali laẓ yettazu, neqqar cwi imi d wihid nekwni izegl-aɣ;
@@ -1341,7 +1341,7 @@
 12	aɣ	nekwn	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod	_	SpaceAfter=No
 13	;	;	PUNCT	_	_	3	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1835
 # text = Akken ula d ameslub-inna, urfan-is issurug-iten di rregmat, annaɣ tesliḍ-as:
@@ -1369,10 +1369,11 @@
 17	as	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	obj	_	SpaceAfter=No
 18	:	:	PUNCT	_	_	17	punct	_	_
 
-# newdoc 
+# newdoc
 # newpar
 # sent_id = 1845
 # text = A nnbi!
 1	A	ah	INTJ	_	_	2	vocative	_	_
 2	nnbi	annbi	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	_
+
