@@ -12885,7 +12885,7 @@
 # newpar
 # sent_id = A735
 # text = A t-an kan da.
-1	A	ha	VERB	VB	Number=Sing|Person=2|Tense=Pres|VerbForm=Imp	0	root	_	_
+1	A	ha	VERB	VB	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	t-an	_	_	_	_	_	_	_	_
 2	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	1	obj	_	_
 3	an	an	ADP	_	_	4	case	_	_

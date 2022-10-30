@@ -33,14 +33,14 @@
     <tag name="X">86</tag><!-- _, isusef, neṭqen, teɣli, usiɣ, yekkren, ADP, Awit, Mzuɣaren, Rnu -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="27">
+  <feats unique="26">
     <feat name="Case" value="Acc" upos="ADJ,NOUN,PRON">2147</feat><!-- t, as, is, s, tt, it, iman, wallen, allen, ifassen -->
     <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON,PROPN">2116</feat><!-- is, sen, s, ten, asen, tmurt, Uḥemmu, sent, tent, ul -->
     <feat name="Case" value="Nom" upos="ADJ,NOUN,PRON,PROPN">2392</feat><!-- netta, aɣ, kra, Rebbi, ass, jiniral, tayri, Azwaw, abrid, tudert -->
     <feat name="Definite" value="Ind" upos="DET">10</feat><!-- d -->
     <feat name="Gender" value="Fem" upos="ADJ,NOUN,NUM,PRON,VERB">2756</feat><!-- tt, tmurt, tayri, sent, tudert, wallen, allen, tent, nettat, yiwet -->
     <feat name="Gender" value="Masc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">6666</feat><!-- sen, t, netta, win, aɣ, it, ten, kra, Rebbi, ass -->
-    <feat name="Mood" value="Imp" upos="VERB">98</feat><!-- yya, a, send, anef, ini, kkes, qqim, aql, awi, susem -->
+    <feat name="Mood" value="Imp" upos="VERB">99</feat><!-- yya, a, send, anef, ini, kkes, qqim, aql, awi, susem -->
     <feat name="Mood" value="Ind" upos="ADJ,ADV,AUX,VERB">3366</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
     <feat name="Number" value="Plur" upos="ADJ,ADV,NOUN,PRON,VERB">2797</feat><!-- sen, aɣ, ten, asen, wid, sent, wallen, medden, allen, tent -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">7947</feat><!-- is, s, t, as, tt, netta, win, it, kra, Rebbi -->
@@ -57,8 +57,7 @@
     <feat name="Tense" value="Fut" upos="VERB">328</feat><!-- yili, nessin, yefk, yegr, yini, yerr, yezmir, yaf, tili, yessin -->
     <feat name="Tense" value="Past" upos="ADJ,ADV,PRON,VERB">2485</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, yekker -->
     <feat name="Tense" value="Pres" upos="ADV,AUX,VERB">1105</feat><!-- yellan, iteddu, yya, yesmuqul, yettawi, yettwali, izemren, yerran, yettnadi, iteddun -->
-    <feat name="VerbForm" value="Fin" upos="ADJ,ADV,AUX,VERB">3437</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
-    <feat name="VerbForm" value="Imp" upos="VERB">1</feat><!-- A -->
+    <feat name="VerbForm" value="Fin" upos="ADJ,ADV,AUX,VERB">3438</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
     <feat name="VerbForm" value="Part" upos="ADV,PRON,VERB">475</feat><!-- yellan, izemren, yerran, iteddun, yeḍran, yezrin, ikecmen, yefkan, yeččuren, iḍerrun -->
     <feat name="Voice" value="Pass" upos="VERB">46</feat><!-- ttwagezmen, ttwakksent, ttwaɛellqen, yettwakksen, yettwaɛellqen, yettwaṭṭfen, yettwet, Tettwalasem, Ttwaqqdent, Ttwaṭṭfeɣ -->
   </feats>
