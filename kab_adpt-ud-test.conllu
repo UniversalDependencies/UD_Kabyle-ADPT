@@ -1374,7 +1374,7 @@
 8	Anezmar	anezmar	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	wanag	wanag	ADV	_	_	11	advmod	_	_
-11	a	ha	VERB	VB	Mood=Ind|Number=Sing|Person=2|X=Yes	7	acl	_	_
+11	a	ha	VERB	VB	Mood=Ind|Number=Sing|Person=2	7	acl	_	_
 12-13	t-an	_	_	_	_	_	_	_	_
 12	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	11	obj	_	_
 13	an	an	ADP	_	_	12	amod	_	_
