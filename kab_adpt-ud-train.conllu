@@ -16291,7 +16291,7 @@
 44	i	i	ADP	_	_	3	case	_	_
 45-46	d-ittakken	_	_	_	_	_	_	_	_
 45	d	ad	PART	_	_	47	advmod	_	_
-46	ittakken	efkk	VB	Mood=Ind|Tense=Past|VerbForm=Part	_	38	acl	_	_
+46	ittakken	efkk	VERB	VB	Mood=Ind|Tense=Past|VerbForm=Part	38	acl	_	_
 47	tafat	tafat	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	46	obj	_	_
 48	n	an	ADP	_	_	49	case	_	_
 49	igenni	igenni	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	47	nmod	_	SpaceAfter=No
@@ -27306,7 +27306,7 @@
 17	ɣef	ɣef	ADP	_	_	19	case	_	_
 18-19	d-tɣelli	_	_	_	_	_	_	_	_
 18	d	ad	PART	_	_	20	advmod	_	_
-19	tɣelli	eɣelli	VREB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	xcomp	_	_
+19	tɣelli	eɣelli	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	xcomp	_	_
 20	tewser	tawser	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	19	nsubj	_	_
 21	yeẓran	eẓar	VERB	VB	Tense=Pres|VerbForm=Part	20	acl	_	_
 22-23	ussan-is	_	_	_	_	_	_	_	_
