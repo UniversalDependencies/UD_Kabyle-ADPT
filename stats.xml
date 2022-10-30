@@ -10,7 +10,7 @@
     <dev><sentences>1850</sentences><tokens>19260</tokens><words>22903</words><fused>3114</fused></dev>
     <test><sentences>80</sentences><tokens>725</tokens><words>857</words><fused>122</fused></test>
   </size>
-  <lemmas unique="2795" /><!-- ad, ,, netta, ., i, an, nutni, es, ur, ag, ɣef, !, ɣer, ;, akkam -->
+  <lemmas unique="2793" /><!-- ad, ,, netta, ., i, an, nutni, es, ur, ag, ɣef, !, ɣer, ;, akkam -->
   <forms unique="4056" /><!-- ,, ., d, ad, i, s, n, is, ur, ag, an, sen, t, ɣef, as -->
   <fusions unique="1748" /><!-- di, deg, deg-s, fell-as, iman-is, nnsen, akk-a, ɣur-s, deg-sen, ɣer-s, ul-is, allen-is, yid-s, dinna, yiman-is -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -30,12 +30,10 @@
     <tag name="PUNCT">7898</tag><!-- ,, ., !, ;, ?, :, «, » -->
     <tag name="SCONJ">288</tag><!-- ma, imi, lemmer, amzun, i, ad, melmi, meḥsub, mi -->
     <tag name="VERB">7864</tag><!-- eql, inni, arr, eddu, uɣal, eldi, ewali, eg, ernu, eqqim -->
-    <tag name="_">172</tag><!-- _, isusef, neṭqen, teɣli, usiɣ, yekkren, ADP, Awit, Mzuɣaren, Rnu -->
+    <tag name="X">172</tag><!-- _, isusef, neṭqen, teɣli, usiɣ, yekkren, ADP, Awit, Mzuɣaren, Rnu -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="31">
-    <feat name="" value="" upos="VERB">2</feat><!-- a -->
-    <feat name="-" value="" upos="PART">2</feat><!-- d -->
+  <feats unique="30">
     <feat name="Case" value="Acc" upos="ADJ,NOUN,PRON">4294</feat><!-- t, as, is, s, tt, it, iman, wallen, allen, ifassen -->
     <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON,PROPN">4232</feat><!-- is, sen, s, ten, asen, tmurt, Uḥemmu, sent, tent, ul -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,NOUN,PRON,PROPN">4788</feat><!-- netta, aɣ, kra, Rebbi, ass, jiniral, tayri, Azwaw, abrid, tudert -->
@@ -65,6 +63,7 @@
     <feat name="VerbForm" value="Ind" upos="VERB">4</feat><!-- iris -->
     <feat name="VerbForm" value="Part" upos="ADV,PRON,VERB">950</feat><!-- yellan, izemren, yerran, iteddun, yeḍran, yezrin, ikecmen, yefkan, yeččuren, iḍerrun -->
     <feat name="Voice" value="Pass" upos="VERB">92</feat><!-- ttwagezmen, ttwakksent, ttwaɛellqen, yettwakksen, yettwaɛellqen, yettwaṭṭfen, yettwet, Tettwalasem, Ttwaqqdent, Ttwaṭṭfeɣ -->
+    <feat name="X" value="Yes" upos="PART,VERB">4</feat><!-- a, d -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="29">
