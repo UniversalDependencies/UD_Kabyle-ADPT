@@ -137,7 +137,7 @@
 5	i	i	ADP	_	_	6	case	_	_
 6	asent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	1	obl	_	_
 7	afriwen	afriw	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	4	obj	_	_
-8	am	am	ADP	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	9	case	_	_
+8	am	am	ADP	_	_	9	case	_	_
 9	widak	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	nmod	_	_
 10	n	an	ADP	_	_	11	case	_	_
 11	lmalayekkat	lmalayekkat	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	9	nmod	_	_
@@ -15582,7 +15582,7 @@
 # newpar
 # sent_id = A889
 # text = Am yesnuraf deg umezruy, ddren kan tallit-nnsen ar ten-teddem tmettant.
-1	Am	akkam	ADP	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	2	case	_	_
+1	Am	akkam	ADP	_	_	2	case	_	_
 2	yesnuraf	asnuraf	NOUN	VB	Gender=Masc|Number=Plur	7	nsubj	_	_
 3-4	deg	_	_	_	_	_	_	_	_
 3	ad	ad	PART	_	_	5	advmod	_	_
