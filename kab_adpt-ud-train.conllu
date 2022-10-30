@@ -35940,7 +35940,7 @@
 1-2	Neḥwaǧ-ik	_	_	_	_	_	_	_	_
 1	Neḥwaǧ	eḥwaǧ	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	ik	kečč	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	obj	_	_
-3	a	ah	INJ	_	_	4	discourse	_	_
+3	a	ah	INTJ	_	_	4	discourse	_	_
 4	nnbi	annbi	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
 5	s	es	PART	_	_	6	case	_	_
 6-7	wass-a	_	_	_	_	_	_	_	SpaceAfter=No
