@@ -33,16 +33,15 @@
     <tag name="X">86</tag><!-- _, isusef, neṭqen, teɣli, usiɣ, yekkren, ADP, Awit, Mzuɣaren, Rnu -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="30">
+  <feats unique="28">
     <feat name="Case" value="Acc" upos="ADJ,NOUN,PRON">2147</feat><!-- t, as, is, s, tt, it, iman, wallen, allen, ifassen -->
     <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON,PROPN">2116</feat><!-- is, sen, s, ten, asen, tmurt, Uḥemmu, sent, tent, ul -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,NOUN,PRON,PROPN">2394</feat><!-- netta, aɣ, kra, Rebbi, ass, jiniral, tayri, Azwaw, abrid, tudert -->
     <feat name="Definite" value="Ind" upos="DET">10</feat><!-- d -->
     <feat name="Gender" value="Fem" upos="ADJ,ADP,ADV,NOUN,NUM,PRON,VERB">2758</feat><!-- tt, tmurt, tayri, sent, tudert, wallen, allen, tent, nettat, yiwet -->
     <feat name="Gender" value="Masc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">6666</feat><!-- sen, t, netta, win, aɣ, it, ten, kra, Rebbi, ass -->
-    <feat name="Mode" value="Ind" upos="VERB">1</feat><!-- xebbcent -->
     <feat name="Mood" value="Imp" upos="VERB">98</feat><!-- yya, a, send, anef, ini, kkes, qqim, aql, awi, susem -->
-    <feat name="Mood" value="Ind" upos="ADJ,ADV,AUX,VERB">3363</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
+    <feat name="Mood" value="Ind" upos="ADJ,ADV,AUX,VERB">3364</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
     <feat name="Number" value="Plur" upos="ADJ,ADV,NOUN,PRON,VERB">2797</feat><!-- sen, aɣ, ten, asen, wid, sent, wallen, medden, allen, tent -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,NOUN,PRON,PROPN,VERB">7949</feat><!-- is, s, t, as, tt, netta, win, it, kra, Rebbi -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">374</feat><!-- aɣ, nek, nekwni, yi, nniɣ, iyi, nessin, wallaɣ, ɣ, nettwali -->
@@ -63,7 +62,6 @@
     <feat name="VerbForm" value="Ind" upos="VERB">2</feat><!-- iris -->
     <feat name="VerbForm" value="Part" upos="ADV,PRON,VERB">475</feat><!-- yellan, izemren, yerran, iteddun, yeḍran, yezrin, ikecmen, yefkan, yeččuren, iḍerrun -->
     <feat name="Voice" value="Pass" upos="VERB">46</feat><!-- ttwagezmen, ttwakksent, ttwaɛellqen, yettwakksen, yettwaɛellqen, yettwaṭṭfen, yettwet, Tettwalasem, Ttwaqqdent, Ttwaṭṭfeɣ -->
-    <feat name="X" value="Yes" upos="PART,VERB">2</feat><!-- a, d -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="29">
