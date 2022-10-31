@@ -7554,7 +7554,7 @@
 15-16	yerra-t	_	_	_	_	_	_	_	_
 15	yerra	arr	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
 16	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	8	conj	_	_
-17	akk	akkw	PRON	NN	PronType=Det	16	obl	_	_
+17	akk	akkw	PRON	NN	PronType=Dem	16	obl	_	_
 18	ɣef	ɣef	ADP	_	_	0	case	_	Cycle=18
 19	Ṭiṭem	Ṭiṭem	PROPN	NNP	Number=Sing	16	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	16	punct	_	_
@@ -8940,7 +8940,7 @@
 11	allen	all	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	14	obl	_	_
 12	n	an	ADP	_	_	13	case	_	_
 13	medden	medden	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	11	nmod	_	_
-14	akk	akkw	PRON	NN	PronType=Det	9	nmod	_	_
+14	akk	akkw	PRON	NN	PronType=Dem	9	nmod	_	_
 15	ɣef	ɣef	ADP	_	_	16	case	_	_
 16	Ṭiṭem	Ṭiṭem	PROPN	NNP	Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	14	punct	_	_
@@ -10103,7 +10103,7 @@
 6	afrayen	afray	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	_
 7	n	an	ADP	_	_	8	case	_	_
 8	medden	medden	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	6	nmod	_	_
-9	akk	akkw	PRON	NN	PronType=Det	6	nmod	_	_
+9	akk	akkw	PRON	NN	PronType=Dem	6	nmod	_	_
 10	yiwet	yiwet	NUM	_	Gender=Fem	3	obl	_	_
 11-12	nnsen	_	_	_	_	_	_	_	SpaceAfter=No
 11	an	an	ADP	_	_	12	case	_	_
@@ -10931,7 +10931,7 @@
 2-3	yimi-s	_	_	_	_	_	_	_	_
 2	yimi	imi	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
 3	s	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	2	det	_	_
-4	akk	akkw	PRON	_	PronType=Det	6	obl	_	_
+4	akk	akkw	PRON	_	PronType=Dem	6	obl	_	_
 5	ara	ara	ADV	_	Polarity=Neg	6	advmod	_	_
 6	kken	ekk	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	acl	_	SpaceAfter=No|Cycle=4:6
 7	.	.	PUNCT	_	_	2	punct	_	_
@@ -12328,7 +12328,7 @@
 12	n	an	ADP	_	_	13	case	_	_
 13	tefsut	tafsut	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
 14	yeglan	eglu	VERB	VB	Tense=Pres|VerbForm=Part	9	conj	_	_
-15	akk	akkw	PRON	NN	PronType=Det	14	obj	_	_
+15	akk	akkw	PRON	NN	PronType=Dem	14	obj	_	_
 16	s	es	ADP	_	_	17	case	_	_
 17	ijeǧǧigen	ajeǧǧig	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	14	obl	_	_
 18	i	id	PRON	_	_	20	obj	_	_
@@ -15723,7 +15723,7 @@
 12-13	slan-as	_	_	_	_	_	_	_	_
 12	slan	esel	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 13	as	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	12	iobj	_	_
-14	akk	akkw	PRON	NN	PronType=Det	15	det	_	_
+14	akk	akkw	PRON	NN	PronType=Dem	15	det	_	_
 15	medden	medden	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	imir	imir	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	19	advcl	_	_
@@ -17693,7 +17693,7 @@
 5	i	i	ADP	_	_	6	case	_	_
 6-7	yiman-is	_	_	_	_	_	_	_	_
 6	yiman	iman	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	4	iobj	_	_
-7	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Det	6	det	_	_
+7	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Dem	6	det	_	_
 8	neɣ	neɣ	CCONJ	_	_	9	cc	_	_
 9	yettraju	eraju	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 10	tiririt	tiririt	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	0	obj	_	Cycle=10
@@ -17729,7 +17729,7 @@
 14	ag	ag	ADP	_	_	15	case	_	_
 15-16	wawal-is	_	_	_	_	_	_	_	SpaceAfter=No
 15	wawal	awal	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	_
-16	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Det	15	det	_	_
+16	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Dem	15	det	_	_
 17	.	.	PUNCT	_	_	7	punct	_	_
 
 # newdoc
@@ -17752,7 +17752,7 @@
 12	d	ad	PART	_	_	11	advmod	_	_
 13-14	wul-is	_	_	_	_	_	_	_	SpaceAfter=No
 13	wul	ul	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	11	nsubj	_	_
-14	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Det	13	det	_	_
+14	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Dem	13	det	_	_
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	tewwi	ebwi	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
 17	udɣu	adɣu	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
@@ -17970,7 +17970,7 @@
 10	timsirin	timsirt	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	7	acl	_	_
 11	ur	ur	ADV	_	Polarity=Neg	12	advmod	_	_
 12-13	s-nettnalas	_	_	_	_	_	_	_	SpaceAfter=No
-12	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Det	13	iobj	_	_
+12	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Dem	13	iobj	_	_
 13	nettnalas	enalas	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	compound	_	_
 14	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -17985,7 +17985,7 @@
 5	i	i	ADP	_	_	6	case	_	_
 6-7	yifassen-is	_	_	_	_	_	_	_	SpaceAfter=No
 6	yifassen	afuss	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
-7	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Det	6	det	_	_
+7	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Dem	6	det	_	_
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	am	akkam	ADP	_	_	10	case	_	_
 10	win	wina	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
@@ -18356,7 +18356,7 @@
 14	i	i	ADP	_	_	15	case	_	_
 15-16	yiman-is	_	_	_	_	_	_	_	SpaceAfter=No
 15	yiman	iman	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	13	iobj	_	_
-16	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Det	15	det	_	_
+16	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Dem	15	det	_	_
 17	,	,	PUNCT	_	_	13	punct	_	_
 18	ɣas	ɣas	ADP	_	_	22	mark	_	_
 19-20	akk-a	_	_	_	_	_	_	_	_
@@ -19130,7 +19130,7 @@
 # sent_id = A1950
 # text = Iɣillen akk akk-a ara tkemmel ar almi i ten-id-tewweḍ tezwawaṭ.
 1	Iɣillen	iɣillen	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
-2	akk	akkw	PRON	_	PronType=Det	1	nsubj	_	_
+2	akk	akkw	PRON	_	PronType=Dem	1	nsubj	_	_
 3-4	akk-a	_	_	_	_	_	_	_	_
 3	akk	akk	ADP	_	_	4	case	_	_
 4	a	agi	PART	_	_	6	mark	_	_
