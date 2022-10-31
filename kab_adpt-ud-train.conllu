@@ -4846,7 +4846,7 @@
 6	axxam	axxam	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	_
 7	an	an	ADP	_	_	8	case	_	_
 8	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	6	nmod	_	_
-9-10	iḥekku-yas	_	_	_	_	_	_	_	_
+9-11	iḥekku-yas	_	_	_	_	_	_	_	_
 9	iḥekku	eḥekku	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 10	i	i	PRON	_	_	11	case	_	_
 11	as	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	9	iobj	_	_
@@ -20087,7 +20087,7 @@
 4	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	1	nmod	_	SpaceAfter=No
 5	asirem	asirem	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
-7-8	deg-s	_	_	_	_	_	_	_	_
+7-9	deg-s	_	_	_	_	_	_	_	_
 7	ad	ad	PART	_	_	9	advmod	_	_
 8	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	9	det	_	_
 9	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	4	conj	_	SpaceAfter=No
