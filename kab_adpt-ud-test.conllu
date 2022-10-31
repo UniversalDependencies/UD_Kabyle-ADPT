@@ -1602,7 +1602,7 @@
 10-11	nnsent	_	_	_	_	_	_	_	SpaceAfter=No
 10	an	an	ADP	_	_	11	case	_	_
 11	sent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	4	obl	_	_
-12	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
 
 # newdoc
 # newpar
@@ -2579,7 +2579,7 @@
 9	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	acl	_	_
 10	id	wu	PRON	_	PronType=Rel	7	acl	_	_
 11	irebban	erebbi	VERB	VB	Tense=Pres|VerbForm=Part	7	acl	_	_
-12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc
 # newpar
@@ -4322,7 +4322,7 @@
 20	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	22	iobj	_	_
 21	id	wu	PRON	_	PronType=Rel	22	advcl	_	_
 22	ixelqen	exelaq	VERB	VB	Tense=Pres|VerbForm=Part	12	conj	_	SpaceAfter=No
-23	!	!	PUNCT	_	_	22	punct	_	SpaceAfter=No
+23	!	!	PUNCT	_	_	22	punct	_	_
 
 # newdoc
 # newpar
@@ -10902,7 +10902,7 @@
 12-13	k-idergen	_	_	_	_	_	_	_	SpaceAfter=No
 12	k	kečč	PRON	NN	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Rel	13	iobj	_	_
 13	idergen	ederag	VERB	VB	Tense=Pres|VerbForm=Part	9	acl	_	_
-14	!	!	PUNCT	_	_	3	punct	_	SpaceAfter=No
+14	!	!	PUNCT	_	_	3	punct	_	_
 
 # newdoc
 # newpar
