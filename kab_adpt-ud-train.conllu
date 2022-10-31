@@ -19483,7 +19483,7 @@
 # text = D wa id asaḍuf n ugama i deg i d-yekker: yal yiwen iḥebber kan i wid-is.
 1	D	ad	PART	_	_	2	det	_	_
 2	wa	wu	PRON	_	PronType=Int	12	acl	_	_
-3	d	ad	DET	_	Definite=Ind|Gender=Masc|PronType=Art	5	det	_	_
+3	id	ad	DET	_	Definite=Ind|Gender=Masc|PronType=Art	5	det	_	_
 4	asaḍuf	asaḍuf	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
 5	n	an	ADP	_	_	7	case	_	_
 6	ugama	agama	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	_
