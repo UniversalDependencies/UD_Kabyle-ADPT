@@ -649,7 +649,7 @@
 # newpar
 # sent_id = A24
 # text = Melmi i d-yezzi i lbiruwat yellan ddaw tmasit-is, s tilifun, dɣa yezgen wass.
-1	Melmi	melmi	SCONJ	_	PronType=Int	4	mark	_	_
+1	Melmi	melmi	ADV	_	PronType=Int	4	advmod	_	Gloss=when
 2	i	i	PRON	_	_	4	nsubj	_	_
 3-4	d-yezzi	_	_	_	_	_	_	_	_
 3	d	ad	PART	_	_	4	advmod	_	_
