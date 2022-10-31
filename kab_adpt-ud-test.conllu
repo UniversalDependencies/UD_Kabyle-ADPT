@@ -7388,7 +7388,7 @@
 16	asen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	13	acl	_	_
 17	d	ad	PART	_	_	16	advmod	_	_
 18	afud	afud	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	13	punct	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
 20	s	es	ADP	_	_	1	case	_	Cycle=20
 21	teɣratin	tiɣratt	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	_
 22-23	nnsent	_	_	_	_	_	_	_	SpaceAfter=No
