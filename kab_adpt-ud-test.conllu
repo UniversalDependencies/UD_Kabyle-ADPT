@@ -4321,7 +4321,7 @@
 20-22	t-id-ixelqen	_	_	_	_	_	_	_	SpaceAfter=No
 20	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	22	iobj	_	_
 21	id	wu	PRON	_	PronType=Rel	22	advcl	_	_
-22	ixelqen	exelaq	VERB	VB	Tense=Pres|VerbForm=Part	12	conj	_	SpaceAfter=No
+22	ixelqen	exelaq	VERB	VB	Tense=Pres|VerbForm=Part	12	conj	_	_
 23	!	!	PUNCT	_	_	22	punct	_	_
 
 # newdoc
@@ -10310,7 +10310,7 @@
 9	yesfenxer	esfenxer	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10-11	wudem-is	_	_	_	_	_	_	_	SpaceAfter=No
 10	wudem	udem	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	obj	_	_
-11	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	10	det	_	SpaceAfter=No
+11	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	10	det	_	_
 12	;	;	PUNCT	_	_	11	punct	_	_
 
 # newdoc

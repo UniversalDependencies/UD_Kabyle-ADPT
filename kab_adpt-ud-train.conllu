@@ -10823,7 +10823,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	a	ha	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 16-17	t-an	_	_	_	_	_	_	_	_
-16	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	15	obj	_	SpaceAfter=No
+16	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	15	obj	_	_
 17	an	an	ADP	_	_	16	case	_	_
 18	yessegḍi	essegḍi	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	xcomp	_	_
 19	yiwen	yiwen	NUM	_	Gender=Masc	18	obj	_	SpaceAfter=No
@@ -19703,7 +19703,7 @@
 8-10	deg-s	_	_	_	_	_	_	_	_
 8	ad	ad	ADV	_	_	9	advmod	_	_
 9	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	11	det	_	_
-10	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	7	iobj	_	SpaceAfter=No
+10	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	7	iobj	_	_
 11	talwit	alwi	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -19763,7 +19763,7 @@
 8-10	deg-sent	_	_	_	_	_	_	_	_
 8	ad	ad	PART	_	_	10	det	_	_
 9	ag	ag	ADP	_	_	10	case	_	_
-10	sent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	6	obl	_	SpaceAfter=No
+10	sent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	6	obl	_	_
 11	iɣerfan	iɣerfan	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -19896,7 +19896,7 @@
 11-13	deg-s	_	_	_	_	_	_	_	_
 11	ad	ad	PART	_	_	13	advmod	_	_
 12	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	13	det	_	_
-13	s	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	iobj	_	SpaceAfter=No
+13	s	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	iobj	_	_
 14	takti	takti	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
 15	:	:	PUNCT	_	_	18	punct	_	_
 16	asefru	asefru	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
@@ -19928,7 +19928,7 @@
 3-5	deg-sen	_	_	_	_	_	_	_	_
 3	ad	ad	PART	_	_	5	advmod	_	_
 4	ag	ag	ADP	_	_	5	case	_	_
-5	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	2	iobj	_	SpaceAfter=No
+5	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	2	iobj	_	_
 6	ur	ur	ADV	_	Polarity=Neg	7	advmod	_	_
 7	nnernan	ennerni	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 8	ur	ur	ADV	_	Polarity=Neg	9	advmod	_	_
@@ -19950,7 +19950,7 @@
 8-10	tt-id-yeflan	_	_	_	_	_	_	_	_
 8	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	10	obj	_	_
 9	id	wu	PRON	_	PronType=Rel	10	advmod	_	_
-10	yeflan	eflu	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
+10	yeflan	eflu	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	_
 11	ur	ur	ADV	_	Polarity=Neg	12	advmod	_	_
 12-13	sent-tgi	_	_	_	_	_	_	_	_
 12	sent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	13	iobj	_	_
@@ -20051,7 +20051,7 @@
 24-26	deg-s	_	_	_	_	_	_	_	SpaceAfter=No
 24	ad	ad	PART	_	_	26	advmod	_	_
 25	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	26	det	_	_
-26	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	22	iobj	_	SpaceAfter=No
+26	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	22	iobj	_	_
 27	.	.	PUNCT	_	_	26	punct	_	_
 
 # newdoc
@@ -20084,13 +20084,13 @@
 2-4	deg-s	_	_	_	_	_	_	_	_
 2	ad	ad	PART	_	_	4	advmod	_	_
 3	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	4	det	_	_
-4	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	1	nmod	_	SpaceAfter=No
+4	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	1	nmod	_	_
 5	asirem	asirem	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7-9	deg-s	_	_	_	_	_	_	_	_
 7	ad	ad	PART	_	_	9	advmod	_	_
 8	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	9	det	_	_
-9	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	4	conj	_	SpaceAfter=No
+9	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	4	conj	_	_
 10	tazmert	azmer	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12-14	deg-s	_	_	_	_	_	_	_	_
