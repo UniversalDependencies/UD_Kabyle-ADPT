@@ -60,10 +60,10 @@
     <feat name="Voice" value="Pass" upos="VERB">46</feat><!-- ttwagezmen, ttwakksent, ttwaɛellqen, yettwakksen, yettwaɛellqen, yettwaṭṭfen, yettwet, Tettwalasem, Ttwaqqdent, Ttwaṭṭfeɣ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="28">
+  <deps unique="27">
     <dep name="acl">1657</dep>
     <dep name="acl:relcl">4</dep>
-    <dep name="advcl">85</dep>
+    <dep name="advcl">86</dep>
     <dep name="advmod">3831</dep>
     <dep name="amod">140</dep>
     <dep name="appos">4</dep>
@@ -72,12 +72,11 @@
     <dep name="ccomp">28</dep>
     <dep name="compound">20</dep>
     <dep name="conj">1234</dep>
-    <dep name="cop">1</dep>
     <dep name="det">859</dep>
     <dep name="discourse">7</dep>
     <dep name="dislocated">14</dep>
     <dep name="iobj">303</dep>
-    <dep name="mark">316</dep>
+    <dep name="mark">317</dep>
     <dep name="nmod">1282</dep>
     <dep name="nsubj">941</dep>
     <dep name="nummod">22</dep>
@@ -85,7 +84,7 @@
     <dep name="obl">1797</dep>
     <dep name="obl:arg">1</dep>
     <dep name="parataxis">1</dep>
-    <dep name="punct">3960</dep>
+    <dep name="punct">3959</dep>
     <dep name="root">1930</dep>
     <dep name="vocative">62</dep>
     <dep name="xcomp">421</dep>

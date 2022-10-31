@@ -4982,11 +4982,11 @@
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	a	ha	VERB	VB	Mood=Imp|Person=2	10	acl	_	_
 10-11	t-an	_	_	_	_	_	_	_	_
-10	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	14	conj	_	_
+10	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	6	acl	_	_
 11	an	an	ADP	_	_	12	case	_	_
 12	wissen	wissen	ADV	_	_	15	advmod	_	_
 13	d	ad	PART	_	_	15	advmod	_	_
-14	acu	acu	ADP	_	_	6	acl	_	_
+14	acu	acu	ADP	_	_	10	conj	_	_
 15	i	i	PRON	_	_	14	case	_	_
 16-17	d-itellem	_	_	_	_	_	_	_	_
 16	d	ad	PART	_	_	18	advmod	_	_
