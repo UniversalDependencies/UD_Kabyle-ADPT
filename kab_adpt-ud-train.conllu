@@ -20093,10 +20093,10 @@
 9	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	4	conj	_	SpaceAfter=No
 10	tazmert	azmer	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
-12-13	deg-s	_	_	_	_	_	_	_	_
+12-14	deg-s	_	_	_	_	_	_	_	_
 12	ad	ad	PART	_	_	14	advmod	_	_
 13	ag	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	14	det	_	_
-14	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	9	conj	_	SpaceAfter=No
+14	s	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	9	conj	_	_
 15	tibbuhelt	tibbuhelt	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
