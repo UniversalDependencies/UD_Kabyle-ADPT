@@ -19952,10 +19952,10 @@
 9	id	wu	PRON	_	PronType=Rel	10	advmod	_	_
 10	yeflan	eflu	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 11	ur	ur	ADV	_	Polarity=Neg	12	advmod	_	_
-12-14	sent-tgi	_	_	_	_	_	_	_	SpaceAfter=No
+12-13	sent-tgi	_	_	_	_	_	_	_	_
 12	sent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	13	iobj	_	_
 13	tgi	eg	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	ccomp	_	_
-14	azal	azal	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	_
+14	azal	azal	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # newdoc
