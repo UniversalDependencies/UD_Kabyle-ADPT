@@ -36,7 +36,7 @@
     <feat name="Case" value="Acc" upos="ADJ,NOUN,PRON">2147</feat><!-- t, as, is, s, tt, it, iman, wallen, allen, ifassen -->
     <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON,PROPN">2116</feat><!-- is, sen, s, ten, asen, tmurt, Uḥemmu, sent, tent, ul -->
     <feat name="Case" value="Nom" upos="ADJ,NOUN,PRON,PROPN">2392</feat><!-- netta, aɣ, kra, Rebbi, ass, jiniral, tayri, Azwaw, abrid, tudert -->
-    <feat name="Definite" value="Ind" upos="DET">10</feat><!-- d -->
+    <feat name="Definite" value="Ind" upos="DET">10</feat><!-- d, id -->
     <feat name="Gender" value="Fem" upos="ADJ,NOUN,NUM,PRON,VERB">2756</feat><!-- tt, tmurt, tayri, sent, tudert, wallen, allen, tent, nettat, yiwet -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">6666</feat><!-- sen, t, netta, win, aɣ, it, ten, kra, Rebbi, ass -->
     <feat name="Mood" value="Imp" upos="VERB">99</feat><!-- yya, a, send, anef, ini, kkes, qqim, aql, awi, susem -->
@@ -48,7 +48,7 @@
     <feat name="Person" value="3" upos="PRON,VERB">5256</feat><!-- is, sen, s, t, as, tt, netta, win, it, ten -->
     <feat name="Polarity" value="Neg" upos="ADV">406</feat><!-- ur, ara, war, awer, wara, xaṭi, Ayya, wer, ɛad -->
     <feat name="Poss" value="Yes" upos="NOUN,PRON">1434</feat><!-- is, sen, s, as, ten, asen, sent, k, tent, iten -->
-    <feat name="PronType" value="Art" upos="DET">15</feat><!-- d -->
+    <feat name="PronType" value="Art" upos="DET">15</feat><!-- d, id -->
     <feat name="PronType" value="Dem" upos="ADV,PRON">485</feat><!-- nni, win, wid, tin, winna, da, din, ina, ta, wayen -->
     <feat name="PronType" value="Int" upos="ADV,PRON">370</feat><!-- ayen, mi, wa, amek, wi, melmi, anida, anwa, wmi, wanida -->
     <feat name="PronType" value="Rel" upos="ADV,NOUN,PRON">2414</feat><!-- is, sen, s, t, as, i, tt, id, netta, aɣ -->
