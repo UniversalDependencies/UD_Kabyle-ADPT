@@ -15,8 +15,8 @@
   <fusions unique="1748" /><!-- di, deg, deg-s, fell-as, iman-is, nnsen, akk-a, ɣur-s, deg-sen, ɣer-s, ul-is, allen-is, yid-s, dinna, yiman-is -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADJ">163</tag><!-- anezmar, amenzu, amellal, meqqer, meẓẓi, aleqqaq, amaynut, amezwaru, aneggaru, azedgan -->
-    <tag name="ADP">3149</tag><!-- an, i, ag, es, ɣef, ɣer, akkam, akken, fell, ɣur -->
+    <tag name="ADJ">162</tag><!-- anezmar, amenzu, amellal, meqqer, meẓẓi, aleqqaq, amaynut, amezwaru, aneggaru, azedgan -->
+    <tag name="ADP">3148</tag><!-- an, i, ag, es, ɣef, ɣer, akkam, akken, fell, ɣur -->
     <tag name="ADV">1829</tag><!-- ad, ur, ani, kan, agi, mi, ula, ara, amek, tura -->
     <tag name="CCONJ">131</tag><!-- neɣ, maca, acku, wala, mačči, mi -->
     <tag name="DET">67</tag><!-- yal, ad, le -->
@@ -24,11 +24,11 @@
     <tag name="NOUN">4432</tag><!-- ass, iman, arebbi, all, akra, ul, abrid, awal, jiniral, tamurt -->
     <tag name="NUM">111</tag><!-- yiwen, yiwet, sin, snat, arbeɛṭac, meyya, 54, kraḍ, tlatin, yin -->
     <tag name="PART">2104</tag><!-- ad, es, agi, bwu, PRON, id -->
-    <tag name="PRON">3389</tag><!-- netta, i, nutni, wu, wina, ayen, nekwn, widak, kečč, nek -->
+    <tag name="PRON">3390</tag><!-- netta, i, nutni, wu, wina, ayen, nekwn, widak, kečč, nek -->
     <tag name="PROPN">191</tag><!-- Ṭiṭem, azwaw, muḥemmed, wejda, azzayer, fransa, dihya, xira, alɛiraq, lpari -->
     <tag name="PUNCT">3949</tag><!-- ,, ., !, ;, ?, :, «, » -->
-    <tag name="SCONJ">144</tag><!-- ma, imi, lemmer, amzun, i, ad, melmi, meḥsub, mi -->
-    <tag name="VERB">3934</tag><!-- eql, inni, arr, eddu, uɣal, eldi, ewali, eg, ernu, eqqim -->
+    <tag name="SCONJ">142</tag><!-- ma, imi, lemmer, amzun, i, ad, meḥsub -->
+    <tag name="VERB">3937</tag><!-- eql, inni, arr, eddu, uɣal, eldi, ewali, eg, ernu, eqqim -->
     <tag name="X">86</tag><!-- _, isusef, neṭqen, teɣli, usiɣ, yekkren, ADP, Awit, Mzuɣaren, Rnu -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -38,36 +38,36 @@
     <feat name="Case" value="Nom" upos="ADJ,NOUN,PRON,PROPN">2392</feat><!-- netta, aɣ, kra, Rebbi, ass, jiniral, tayri, Azwaw, abrid, tudert -->
     <feat name="Definite" value="Ind" upos="DET">10</feat><!-- d -->
     <feat name="Gender" value="Fem" upos="ADJ,NOUN,NUM,PRON,VERB">2756</feat><!-- tt, tmurt, tayri, sent, tudert, wallen, allen, tent, nettat, yiwet -->
-    <feat name="Gender" value="Masc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">6666</feat><!-- sen, t, netta, win, aɣ, it, ten, kra, Rebbi, ass -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">6666</feat><!-- sen, t, netta, win, aɣ, it, ten, kra, Rebbi, ass -->
     <feat name="Mood" value="Imp" upos="VERB">99</feat><!-- yya, a, send, anef, ini, kkes, qqim, aql, awi, susem -->
-    <feat name="Mood" value="Ind" upos="ADJ,ADV,VERB">3366</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
-    <feat name="Number" value="Plur" upos="ADJ,ADV,NOUN,PRON,VERB">2797</feat><!-- sen, aɣ, ten, asen, wid, sent, wallen, medden, allen, tent -->
+    <feat name="Mood" value="Ind" upos="VERB">3366</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,PRON,VERB">2797</feat><!-- sen, aɣ, ten, asen, wid, sent, wallen, medden, allen, tent -->
     <feat name="Number" value="Sing" upos="ADJ,NOUN,PRON,PROPN,VERB">7947</feat><!-- is, s, t, as, tt, netta, win, it, kra, Rebbi -->
     <feat name="Person" value="1" upos="PRON,VERB">374</feat><!-- aɣ, nek, nekwni, yi, nniɣ, iyi, nessin, wallaɣ, ɣ, nettwali -->
-    <feat name="Person" value="2" upos="ADJ,NOUN,PRON,VERB">302</feat><!-- k, wen, yya, ak, am, send, anef, ini, kečč, kkes -->
-    <feat name="Person" value="3" upos="ADV,PRON,VERB">5256</feat><!-- is, sen, s, t, as, tt, netta, win, it, ten -->
+    <feat name="Person" value="2" upos="NOUN,PRON,VERB">302</feat><!-- k, wen, yya, ak, am, send, anef, ini, kečč, kkes -->
+    <feat name="Person" value="3" upos="PRON,VERB">5256</feat><!-- is, sen, s, t, as, tt, netta, win, it, ten -->
     <feat name="Polarity" value="Neg" upos="ADV">406</feat><!-- ur, ara, war, awer, wara, xaṭi, Ayya, wer, ɛad -->
     <feat name="Poss" value="Yes" upos="NOUN,PRON">1434</feat><!-- is, sen, s, as, ten, asen, sent, k, tent, iten -->
     <feat name="PronType" value="Art" upos="DET">15</feat><!-- d -->
     <feat name="PronType" value="Dem" upos="ADV,PRON">485</feat><!-- nni, win, wid, tin, winna, da, din, ina, ta, wayen -->
-    <feat name="PronType" value="Int" upos="ADP,ADV,PRON,SCONJ">370</feat><!-- ayen, mi, wa, amek, wi, melmi, anida, anwa, wmi, wanida -->
-    <feat name="PronType" value="Rel" upos="ADP,ADV,NOUN,PRON">2415</feat><!-- is, sen, s, t, as, i, tt, id, netta, aɣ -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">370</feat><!-- ayen, mi, wa, amek, wi, melmi, anida, anwa, wmi, wanida -->
+    <feat name="PronType" value="Rel" upos="ADV,NOUN,PRON">2414</feat><!-- is, sen, s, t, as, i, tt, id, netta, aɣ -->
     <feat name="Tense" value="Fut" upos="VERB">328</feat><!-- yili, nessin, yefk, yegr, yini, yerr, yezmir, yaf, tili, yessin -->
-    <feat name="Tense" value="Past" upos="ADJ,ADV,PRON,VERB">2485</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, yekker -->
-    <feat name="Tense" value="Pres" upos="ADV,VERB">1105</feat><!-- yellan, iteddu, yya, yesmuqul, yettawi, yettwali, izemren, yerran, yettnadi, iteddun -->
-    <feat name="VerbForm" value="Fin" upos="ADJ,ADV,VERB">3438</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
-    <feat name="VerbForm" value="Part" upos="ADV,PRON,VERB">475</feat><!-- yellan, izemren, yerran, iteddun, yeḍran, yezrin, ikecmen, yefkan, yeččuren, iḍerrun -->
+    <feat name="Tense" value="Past" upos="VERB">2484</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, yekker -->
+    <feat name="Tense" value="Pres" upos="VERB">1105</feat><!-- yellan, iteddu, yya, yesmuqul, yettawi, yettwali, izemren, yerran, yettnadi, iteddun -->
+    <feat name="VerbForm" value="Fin" upos="VERB">3438</feat><!-- yelli, yerna, yenna, yuɣal, yella, llan, yeqqim, yezmer, rran, iteddu -->
+    <feat name="VerbForm" value="Part" upos="VERB">474</feat><!-- yellan, izemren, yerran, iteddun, yeḍran, yezrin, ikecmen, yefkan, yeččuren, iḍerrun -->
     <feat name="Voice" value="Pass" upos="VERB">46</feat><!-- ttwagezmen, ttwakksent, ttwaɛellqen, yettwakksen, yettwaɛellqen, yettwaṭṭfen, yettwet, Tettwalasem, Ttwaqqdent, Ttwaṭṭfeɣ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="28">
     <dep name="acl">1657</dep>
     <dep name="acl:relcl">4</dep>
-    <dep name="advcl">82</dep>
-    <dep name="advmod">3835</dep>
-    <dep name="amod">141</dep>
+    <dep name="advcl">85</dep>
+    <dep name="advmod">3831</dep>
+    <dep name="amod">140</dep>
     <dep name="appos">4</dep>
-    <dep name="case">3593</dep>
+    <dep name="case">3594</dep>
     <dep name="cc">91</dep>
     <dep name="ccomp">28</dep>
     <dep name="compound">20</dep>
@@ -77,12 +77,12 @@
     <dep name="discourse">7</dep>
     <dep name="dislocated">14</dep>
     <dep name="iobj">303</dep>
-    <dep name="mark">319</dep>
+    <dep name="mark">316</dep>
     <dep name="nmod">1282</dep>
     <dep name="nsubj">941</dep>
     <dep name="nummod">22</dep>
     <dep name="obj">1155</dep>
-    <dep name="obl">1793</dep>
+    <dep name="obl">1797</dep>
     <dep name="obl:arg">1</dep>
     <dep name="parataxis">1</dep>
     <dep name="punct">3960</dep>
