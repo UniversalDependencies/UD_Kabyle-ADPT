@@ -1145,7 +1145,7 @@
 8	ur	ur	ADV	_	Polarity=Neg	9	advmod	_	_
 9-10	t-cqin	_	_	_	_	_	_	_	SpaceAfter=No
 9	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	10	obj	_	_
-10	cqin	ecqu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	_
+10	cqin	ecqu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # newdoc
@@ -3576,7 +3576,7 @@
 4	Jiniral	jiniral	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 5	Anezmar	anezmar	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6-7	izegr-itt	_	_	_	_	_	_	_	_
-6	izegr	ezegar	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	_
+6	izegr	ezegar	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 7	itt	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	6	obj	_	_
 8	netta	netta	PRON	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	nsubj	_	_
 9	yettidir	idir	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	xcomp	_	_
@@ -8165,8 +8165,8 @@
 2	wi	wi	PRON	_	PronType=Int	4	nsubj	_	_
 3	i	i	PRON	_	PronType=Rel	2	obl	_	_
 4	nufa	aff	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-5	Jiniral	jiniral	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	cop	_	SpaceAfter=No
-6	!	!	PUNCT	_	_	2	punct	_	_
+5	Jiniral	jiniral	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	4	punct	_	_
 
 # newdoc
 # newpar
@@ -11032,7 +11032,7 @@
 # newpar
 # sent_id = A635
 # text = Wi am teḥbubt, tamurt tekcem att-teḍfer tmettant.
-1	Wi	wi	PRON	_	PronType=Int	3	cop	_	_
+1	Wi	wi	PRON	_	PronType=Int	3	nmod	_	_
 2	am	akkam	ADP	_	_	3	case	_	_
 3	teḥbubt	taḥbubt	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
