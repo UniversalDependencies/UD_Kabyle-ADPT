@@ -16201,7 +16201,7 @@
 5-6	ul-is	_	_	_	_	_	_	_	_
 5	ul	ul	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	8	nsubj	_	_
 6	is	netta	PRON	NN	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Rel	5	det	_	_
-7	la	aql	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	la	aql	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	compound	_	_
 8	yedukku	edukki	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 

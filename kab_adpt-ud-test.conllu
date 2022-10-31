@@ -5515,7 +5515,7 @@
 # newpar
 # sent_id = A309
 # text = La tettbeddil taglimt am uzrem.
-1	La	aql	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	case	_	_
+1	La	aql	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	case	_	_
 2	tettbeddil	ebeddel	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	case	_	_
 3	taglimt	aglim	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	am	akkam	ADP	_	_	5	case	_	_
