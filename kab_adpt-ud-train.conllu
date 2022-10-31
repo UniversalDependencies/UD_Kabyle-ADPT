@@ -5610,7 +5610,7 @@
 5	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	6	obj	_	_
 6	yettraju	eraju	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	imi	mi	SCONJ	_	PronType=Int	9	mark	_	_
+8	imi	mi	ADV	_	PronType=Int	9	advmod	_	_
 9	yella	eql	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 10	wayen	ayen	PRON	_	PronType=Dem	9	nsubj	_	_
 11	ara	ara	ADV	_	Polarity=Neg	12	advmod	_	_
@@ -5883,7 +5883,7 @@
 # sent_id = A1197
 # text = Ɣur-i taɣawsa riɣ am-tt-mmleɣ.
 1-2	Ɣur-i	_	_	_	_	_	_	_	_
-1	Ɣur	ɣur	ADP	_	PronType=Rel	2	mark	_	_
+1	Ɣur	ɣur	ADP	_	_	2	case	_	Gloss=have
 2	i	i	PRON	_	_	4	acl	_	_
 3	taɣawsa	Taɣawsa	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	_
 4	riɣ	arr	VERB	VB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -17605,7 +17605,7 @@
 # newpar
 # sent_id = A1874
 # text = Acu teqqareḍ ih?
-1	Acu	acu	ADP	_	PronType=Int	2	advmod	_	_
+1	Acu	acu	PRON	_	PronType=Int	2	obl	_	Gloss=what
 2	teqqareḍ	ini	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 3	ih	ih	INTJ	UH	_	2	vocative	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	_
@@ -17933,7 +17933,7 @@
 # sent_id = A1890
 # text = Agdud am wa jjmeɣ-t.
 1	Agdud	agdud	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
-2	am	am	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	3	advmod	_	_
+2	am	am	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	3	obl	_	_
 3	wa	wu	PRON	_	PronType=Int	1	nmod	_	_
 4-5	jjmeɣ-t	_	_	_	_	_	_	_	SpaceAfter=No
 4	jjmeɣ	ejjem	VERB	VB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -18097,7 +18097,7 @@
 5-6	ffɣen-d	_	_	_	_	_	_	_	_
 5	ffɣen	effaɣ	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	d	ad	PART	_	_	5	advmod	_	_
-7	am	am	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	8	advmod	_	_
+7	am	am	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	8	obl	_	_
 8	iɣunam	eɣunam	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	obl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -18445,7 +18445,7 @@
 7	agdud	agdud	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 8	an	an	ADP	_	_	9	case	_	_
 9	aɣ	nekwn	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Rel	7	nmod	_	_
-10	am	akkam	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	11	advmod	_	_
+10	am	akkam	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Rel	11	obl	_	_
 11	asif	asif	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	_
 12	asusam	asusam	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	_

@@ -702,7 +702,7 @@
 # sent_id = A26
 # text = Ur ǧin yesteqsa d acu i d-ttnawalen.
 1	Ur	ur	ADV	_	Polarity=Neg	3	advmod	_	_
-2	ǧin	ǧin	ADV	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advmod	_	_
+2	ǧin	ǧin	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
 3	yesteqsa	esteqsi	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	d	ad	PART	_	_	5	advmod	_	_
 5	acu	acu	PRON	_	_	3	parataxis	_	_
@@ -5128,7 +5128,7 @@
 2	ɣilleɣ	eɣill	VERB	VB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	ah	INTJ	_	_	4	vocative	_	_
 4	Uḥemmu	uḥemma	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
-5	meqqreḍ	meqqar	ADJ	JJ	Gender=Fem|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	amod	_	SpaceAfter=No
+5	meqqreḍ	meqqar	VERB	JJ	Gender=Fem|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	acl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	tessneḍ	essin	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	2	xcomp	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
@@ -6173,7 +6173,7 @@
 19-21	n-yasen	_	_	_	_	_	_	_	SpaceAfter=No
 19	n	an	ADV	_	_	20	advmod	_	_
 20	i	i	PRON	_	_	6	case	_	_
-21	asen	ess	PRON	NN	Tense=Past|VerbForm=Part	14	acl	_	_
+21	asen	ess	PRON	NN	_	13	advcl	_	_
 22	.	.	PUNCT	_	_	21	punct	_	_
 
 # newdoc
@@ -9687,7 +9687,7 @@
 10	agarru	agarru	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	3	punct	_	_
 12	ibernen	eberan	VERB	VB	Tense=Pres|VerbForm=Part	10	obl	_	_
-13	yakan	yakan	ADV	VB	Tense=Pres|VerbForm=Part	15	advmod	_	SpaceAfter=No
+13	yakan	yakan	VERB	VB	Tense=Pres|VerbForm=Part	15	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	12	punct	_	_
 15-16	isselbubeɣ-it	_	_	_	_	_	_	_	_
 15	isselbubeɣ	esselbubaɣ	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
