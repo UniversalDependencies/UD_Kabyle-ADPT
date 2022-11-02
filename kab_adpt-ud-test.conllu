@@ -6557,8 +6557,8 @@
 5	yeɛyan	eɛyu	VERB	VB	Tense=Pres|VerbForm=Part	9	acl	_	_
 6	ur	ur	ADV	_	Polarity=Neg	7	advmod	_	_
 7-8	tt-yufi	_	_	_	_	_	_	_	_
-7	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	9	punct	_	_
-8	yufi	aff	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	punct	_	_
+7	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	9	obl	_	_
+8	yufi	aff	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
 9	ad	ad	PART	_	_	10	advmod	_	_
 10	yesgunfu	esgunfu	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	acl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
@@ -11973,7 +11973,7 @@
 6	tamettant	tamettant	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
 7-8	nnsen	_	_	_	_	_	_	_	SpaceAfter=No
 7	an	an	ADP	_	_	8	case	_	_
-8	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	6	punct	_	_
+8	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	6	nmod	_	_
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc
@@ -13051,7 +13051,7 @@
 # text = D tinna i d tawwurt n wexxam-is.
 1	D	ad	PART	_	_	2	advmod	_	_
 2	tinna	wina	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	_	_
-3	i	i	PRON	_	_	2	punct	_	_
+3	i	i	PRON	_	_	2	nmod	_	_
 4	d	ad	ADV	_	_	5	advmod	_	_
 5	tawwurt	abwur	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
 6	n	an	ADP	_	_	7	case	_	_
