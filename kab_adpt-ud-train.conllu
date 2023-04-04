@@ -193,7 +193,7 @@
 28-30	issinif-itent-id	_	_	_	_	_	_	_	SpaceAfter=No
 28	issinif	essinaf	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
 29	itent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	28	obj	_	_
-30	id	wu	PRON	_	PronType=Rel	28	advmod	_	_
+30	id	wu	PRON	_	PronType=Rel	28	obl	_	_
 31	.	.	PUNCT	_	_	30	punct	_	_
 
 # newdoc
@@ -1005,7 +1005,7 @@
 13	is	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	12	det	_	_
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	ay	ay	INTJ	UH	_	10	vocative	_	_
-16	atmaten	agtmat	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	19	advmod	_	SpaceAfter=No
+16	atmaten	agtmat	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	19	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
 18-19	di	_	_	_	_	_	_	_	_
 18	ad	ad	PART	_	_	20	advmod	_	_
@@ -1710,7 +1710,7 @@
 34	ad	ad	PART	_	_	36	advmod	_	_
 35	ag	ag	ADP	_	_	1	case	_	Cycle=35
 36	s	netta	PRON	NN	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	38	det	_	_
-37	ayen	ayen	PRON	_	PronType=Int	1	advmod	_	Cycle=38:37
+37	ayen	ayen	PRON	_	PronType=Int	1	obl	_	Cycle=38:37
 38	yebɣa	ebɣa	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	acl	_	_
 39	;	;	PUNCT	_	_	37	punct	_	Cycle=39
 
@@ -2273,7 +2273,7 @@
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	yefreḥ	efreḥ	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	det	_	_
 4	s	es	PART	_	_	5	case	_	_
-5	wayen	ayen	PRON	_	PronType=Dem	6	advmod	_	_
+5	wayen	ayen	PRON	_	PronType=Dem	6	obl	_	_
 6	iga	eg	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -2879,7 +2879,7 @@
 # text = Yuɣal ɣer tinna d-yerban aqcic, yeẓẓlen ger tgelliwin.
 1	Yuɣal	uɣal	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advmod	_	_
 2	ɣer	ɣer	ADP	_	_	3	case	_	_
-3	tinna	wina	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	advmod	_	_
+3	tinna	wina	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obl	_	_
 4-5	d-yerban	_	_	_	_	_	_	_	_
 4	d	ad	PART	_	_	6	advmod	_	_
 5	yerban	yerban	X	_	_	0	root	_	_
@@ -3095,7 +3095,7 @@
 4-6	yelsa-tt-id	_	_	_	_	_	_	_	_
 4	yelsa	els	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
 5	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	3	acl	_	Cycle=5
-6	id	wu	PRON	_	PronType=Rel	5	advmod	_	_
+6	id	wu	PRON	_	PronType=Rel	5	obl	_	_
 7	s	es	ADP	_	_	5	case	_	_
 8	azniq	azniq	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
@@ -3659,7 +3659,7 @@
 7	,	,	PUNCT	_	_	6	punct	_	_
 8-9	ddren-tt	_	_	_	_	_	_	_	_
 8	ddren	eddar	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advmod	_	_
-9	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	3	advmod	_	Cycle=9
+9	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	3	obl	_	Cycle=9
 10	kan	kan	ADV	_	_	11	advmod	_	_
 11	at	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	obj	_	_
 12	zik	zik	ADP	_	_	10	nmod	_	SpaceAfter=No
@@ -3786,7 +3786,7 @@
 8	zgan	ezgu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9-10	gar-asen	_	_	_	_	_	_	_	SpaceAfter=No
 9	gar	gar	ADP	_	_	4	advmod	_	_
-10	asen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	4	advmod	_	_
+10	asen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	4	obl	_	_
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	zgan	ezgu	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
 13-14	ttwebdaren-d	_	_	_	_	_	_	_	SpaceAfter=No
@@ -3800,7 +3800,7 @@
 19	ger	ger	ADP	_	_	18	case	_	_
 20	imuddiren	imuddiren	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	obl	_	_
 21	xas	xas	ADV	_	_	22	advmod	_	_
-22	nutni	nutni	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	8	advmod	_	Cycle=22
+22	nutni	nutni	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	8	obl	_	Cycle=22
 23	d	ad	ADV	_	_	24	advmod	_	_
 24	imettanen	imettanen	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	18	nmod	_	_
 25	rkan	erku	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	acl	_	_
@@ -4040,7 +4040,7 @@
 16	ten	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	11	acl	_	_
 17	yeǧǧan	eǧǧ	VERB	VB	Tense=Pres|VerbForm=Part	11	acl	_	_
 18	d	ad	PART	_	_	19	advmod	_	_
-19	nutni	nutni	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	8	advmod	_	SpaceAfter=No
+19	nutni	nutni	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	8	obl	_	SpaceAfter=No
 20	?	?	PUNCT	_	_	3	punct	_	_
 
 # newdoc
@@ -4727,7 +4727,7 @@
 20	yeddebdeb	eddebdeb	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	s	es	PART	_	_	6	mark	_	_
-23	wayen	ayen	PRON	_	PronType=Dem	22	advmod	_	_
+23	wayen	ayen	PRON	_	PronType=Dem	22	obl	_	_
 24	yeẓra	eẓar	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	24	punct	_	_
 
@@ -4950,7 +4950,7 @@
 18	i	i	ADP	_	_	19	case	_	_
 19	yi	nek	PRON	NN	Case=Acc|Number=Sing|Person=1|PronType=Rel	17	iobj	_	_
 20	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	17	obj	_	_
-21	id	wu	PRON	_	PronType=Rel	17	advmod	_	_
+21	id	wu	PRON	_	PronType=Rel	17	obl	_	_
 22	ad	ad	PART	_	_	24	advmod	_	_
 23-24	t-waliɣ	_	_	_	_	_	_	_	SpaceAfter=No
 23	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	24	obj	_	_
@@ -5135,7 +5135,7 @@
 2	s	netta	PRON	_	_	4	obj	_	_
 3	d	ad	PART	_	_	4	advmod	_	_
 4	yaru	aru	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-5	ayen	ayen	PRON	_	PronType=Int	4	advmod	_	_
+5	ayen	ayen	PRON	_	PronType=Int	4	obl	_	_
 6	yettḥulfu	eḥulfu	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	_
 
@@ -5776,7 +5776,7 @@
 # sent_id = A1188
 # text = Si llza ɣer wayeḍ.
 1	Si	si	ADP	_	_	4	det	_	_
-2	llza	allza	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	advmod	_	_
+2	llza	allza	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	obl	_	_
 3	ɣer	ɣer	ADP	_	_	4	case	_	_
 4	wayeḍ	wayaḍ	PRON	_	Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -5798,7 +5798,7 @@
 9-11	taf-it-id	_	_	_	_	_	_	_	_
 9	taf	aff	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	mark	_	_
 10	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	1	mark	_	Cycle=10
-11	id	wu	PRON	_	PronType=Rel	10	advmod	_	_
+11	id	wu	PRON	_	PronType=Rel	10	obl	_	_
 12	yezzer	ezzer	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 13-14	di	_	_	_	_	_	_	_	_
 13	ad	ad	PART	_	_	15	advmod	_	_
@@ -5941,7 +5941,7 @@
 1-3	Yeddem-it-id	_	_	_	_	_	_	_	SpaceAfter=No
 1	Yeddem	eddem	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	1	obj	_	_
-3	id	wu	PRON	_	PronType=Rel	2	advmod	_	_
+3	id	wu	PRON	_	PronType=Rel	2	obl	_	_
 4	,	,	PUNCT	_	_	5	punct	_	_
 5-7	imekken-as-t	_	_	_	_	_	_	_	SpaceAfter=No
 5	imekken	emekkan	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
@@ -6292,7 +6292,7 @@
 7-9	tettuɣal-it-id	_	_	_	_	_	_	_	SpaceAfter=No
 7	tettuɣal	uɣal	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	obj	_	_
-9	id	wu	PRON	_	PronType=Rel	8	advmod	_	_
+9	id	wu	PRON	_	PronType=Rel	8	obl	_	_
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc
@@ -7120,7 +7120,7 @@
 # text = Ɣas akken anagar nettat tettqazam-it, tettarra-yas taqemmuct ger yessetma-s.
 1	Ɣas	ɣas	ADP	_	_	11	case	_	_
 2	akken	akken	ADP	_	_	3	case	_	_
-3	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	advmod	_	_
+3	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	_
 4	nettat	netta	PRON	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	5	nsubj	_	_
 5-6	tettqazam-it	_	_	_	_	_	_	_	SpaceAfter=No
 5	tettqazam	eɣaz	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -7450,7 +7450,7 @@
 17	tlawin	tilawt	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	15	obl	_	_
 18-19	cfukwen-id	_	_	_	_	_	_	_	_
 18	cfukwen	ecfukaw	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	acl	_	_
-19	id	wu	PRON	_	PronType=Rel	18	advmod	_	_
+19	id	wu	PRON	_	PronType=Rel	18	obl	_	_
 20	akka	akka	ADP	_	_	21	case	_	_
 21	ttettḍem	ettaḍ	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	case	_	Cycle=21
 22-24	iḍudan-nnwen	_	_	_	_	_	_	_	SpaceAfter=No
@@ -7626,7 +7626,7 @@
 # newpar
 # sent_id = A1302
 # text = Win ara s-yinin mmi-m ad yuɣal akk-a wissen amek ara s-terr?
-1	Win	wina	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	advmod	_	_
+1	Win	wina	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obl	_	_
 2	ara	ara	ADV	_	Polarity=Neg	4	advmod	_	_
 3-4	s-yinin	_	_	_	_	_	_	_	_
 3	s	es	PART	_	_	13	advmod	_	_
@@ -9953,7 +9953,7 @@
 # newpar
 # sent_id = A1417
 # text = Anagar widen yeɣlin di tegrawla-nni n 54, banen, ttwebnan.
-1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	advmod	_	_
+1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 2	widen	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	nsubj	_	_
 3	yeɣlin	eɣli	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	_
 4-5	di	_	_	_	_	_	_	_	_
@@ -10428,7 +10428,7 @@
 # text = Ar deqqal anagar widak-nni yeɣran i sen-yeqqaren hemma.
 1	Ar	ar	ADP	_	_	2	case	_	_
 2	deqqal	deqqal	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
-3	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	advmod	_	_
+3	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	_
 4-5	widak-nni	_	_	_	_	_	_	_	_
 4	widak	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	2	nmod	_	_
 5	nni	ani	ADV	RB	PronType=Dem	6	advmod	_	_
@@ -11306,7 +11306,7 @@
 1-3	Oǧan-t-id	_	_	_	_	_	_	_	_
 1	Oǧan	eǧ	VERB	VB	Tense=Past|VerbForm=Fin	0	root	_	_
 2	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	1	obj	_	_
-3	id	wu	PRON	_	PronType=Rel	2	advmod	_	_
+3	id	wu	PRON	_	PronType=Rel	2	obl	_	_
 4	imezwura	amezwaru	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -11365,7 +11365,7 @@
 # sent_id = A1498
 # text = D ayen i d-snulfan imenza i lemden ineggura.
 1	D	ad	PART	_	_	3	advmod	_	_
-2	ayen	ayen	PRON	_	PronType=Dem	3	advmod	_	_
+2	ayen	ayen	PRON	_	PronType=Dem	3	obl	_	_
 3	i	i	PRON	_	_	5	mark	_	_
 4-5	d-snulfan	_	_	_	_	_	_	_	_
 4	d	ad	PART	_	_	5	advmod	_	_
@@ -11457,7 +11457,7 @@
 6	tudert	tudert	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	obl	_	_
 7	i	i	PRON	_	_	8	case	_	_
 8	nnan	inni	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
-9	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	10	advmod	_	_
+9	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
 10	netta	netta	PRON	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	11	obl	_	_
 11-12	ittak-itt	_	_	_	_	_	_	_	SpaceAfter=No
 11	ittak	efk	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
@@ -11797,7 +11797,7 @@
 5	akessas	akessas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	yettak	efk	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	case	_	_
-8	azuɣer	azuɣer	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	10	advmod	_	SpaceAfter=No
+8	azuɣer	azuɣer	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	akken	akken	ADP	_	_	5	nmod	_	_
 11	ad	ad	PART	_	_	12	advmod	_	_
@@ -11866,7 +11866,7 @@
 7	wawal	awal	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	yif	if	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
-10	aqjun	aqjun	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	advmod	_	_
+10	aqjun	aqjun	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	obl	_	_
 11	yeddren	idir	VERB	VB	Tense=Pres|VerbForm=Part	9	acl	_	_
 12	izem	izem	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
 13	yemmuten	emmat	VERB	VB	Tense=Pres|VerbForm=Part	11	obl	_	SpaceAfter=No
@@ -12000,7 +12000,7 @@
 # newpar
 # sent_id = A1529
 # text = Anagar wid yettwaqqden deg-s i yeẓran tiyita ččan.
-1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	advmod	_	_
+1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 2	wid	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	obj	_	_
 3	yettwaqqden	ttwaqqde	VERB	VB	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4-6	deg-s	_	_	_	_	_	_	_	_
@@ -12369,7 +12369,7 @@
 11-13	tesdukkel-iten-id	_	_	_	_	_	_	_	_
 11	tesdukkel	esdukkal	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	xcomp	_	_
 12	iten	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	11	obj	_	_
-13	id	wu	PRON	_	PronType=Rel	12	advmod	_	_
+13	id	wu	PRON	_	PronType=Rel	12	obl	_	_
 14	ɣer	ɣer	ADP	_	_	15	case	_	_
 15-16	wid-is	_	_	_	_	_	_	_	SpaceAfter=No
 15	wid	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	11	iobj	_	_
@@ -12399,7 +12399,7 @@
 7-9	tsuden-it-id	_	_	_	_	_	_	_	_
 7	tsuden	esuden	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	_
 8	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	3	acl	_	_
-9	id	wu	PRON	_	PronType=Rel	8	advmod	_	_
+9	id	wu	PRON	_	PronType=Rel	8	obl	_	_
 10-11	di	_	_	_	_	_	_	_	_
 10	ad	ad	PART	_	_	12	advmod	_	_
 11	i	i	ADP	_	_	12	case	_	_
@@ -13106,7 +13106,7 @@
 1-3	Terra-t-id	_	_	_	_	_	_	_	_
 1	Terra	arr	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	1	obj	_	_
-3	id	wu	PRON	_	PronType=Rel	1	advmod	_	_
+3	id	wu	PRON	_	PronType=Rel	1	obl	_	_
 4	Ṭiṭem	Ṭiṭem	PROPN	NNP	Number=Sing	1	nsubj	_	_
 5	ɣer	ɣer	ADP	_	_	6	case	_	_
 6	din	dina	ADV	_	PronType=Dem	10	advmod	_	SpaceAfter=No
@@ -13141,7 +13141,7 @@
 8-10	teddem-it-id	_	_	_	_	_	_	_	_
 8	teddem	eddam	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 9	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	8	obj	_	_
-10	id	wu	PRON	_	PronType=Rel	9	advmod	_	_
+10	id	wu	PRON	_	PronType=Rel	9	obl	_	_
 11-12	ɣur-s	_	_	_	_	_	_	_	SpaceAfter=No
 11	ɣur	ɣur	ADP	_	_	12	case	_	_
 12	s	netta	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Rel	8	obl	_	_
@@ -13174,7 +13174,7 @@
 # sent_id = A1590
 # text = Ikennu kra kra, issers ixf-is ɣef tedmarin n Ṭiṭem.
 1	Ikennu	ekennu	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	kra	akra	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	advmod	_	_
+2	kra	akra	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	obl	_	_
 3	kra	akra	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	issers	essers	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
@@ -13293,7 +13293,7 @@
 7-9	deg-sen	_	_	_	_	_	_	_	_
 7	ad	ad	PART	_	_	9	advmod	_	_
 8	ag	ag	ADP	_	_	5	case	_	Cycle=9:8
-9	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	8	advmod	_	_
+9	sen	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	8	obl	_	_
 10	idammen	idammen	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	6	acl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -13309,7 +13309,7 @@
 # newpar
 # sent_id = A1602
 # text = Anagar awal n idammen nsell-it, anagar nutni nettwali-ten.
-1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	advmod	_	_
+1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 2	awal	awal	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	dislocated	_	_
 3	n	an	ADP	_	_	4	case	_	_
 4	idammen	idammen	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	_
@@ -13317,7 +13317,7 @@
 5	nsell	esell	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	5	obj	_	_
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	advmod	_	_
+8	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
 9	nutni	nutni	PRON	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	11	dislocated	_	_
 10-11	nettwali-ten	_	_	_	_	_	_	_	SpaceAfter=No
 10	nettwali	ewali	VERB	VB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -13610,7 +13610,7 @@
 2-4	tsuden-it-id	_	_	_	_	_	_	_	_
 2	tsuden	esuden	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	det	_	_
 3	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	1	det	_	Cycle=4:3
-4	id	wu	PRON	_	PronType=Rel	3	advmod	_	_
+4	id	wu	PRON	_	PronType=Rel	3	obl	_	_
 5-6	di	_	_	_	_	_	_	_	_
 5	ad	ad	PART	_	_	7	advmod	_	_
 6	i	i	ADP	_	_	7	case	_	_
@@ -13624,7 +13624,7 @@
 1-3	Yeldi-tent-id	_	_	_	_	_	_	_	SpaceAfter=No
 1	Yeldi	eldi	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	tent	nutni	PRON	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Rel	1	obj	_	_
-3	id	wu	PRON	_	PronType=Rel	2	advmod	_	_
+3	id	wu	PRON	_	PronType=Rel	2	obl	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc
@@ -13634,7 +13634,7 @@
 1-3	Tsuden-it-id	_	_	_	_	_	_	_	_
 1	Tsuden	esuden	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	nsubj	_	_
 2	it	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
-3	id	wu	PRON	_	PronType=Rel	2	advmod	_	_
+3	id	wu	PRON	_	PronType=Rel	2	obl	_	_
 4-5	di	_	_	_	_	_	_	_	_
 4	ad	ad	PART	_	_	6	advmod	_	_
 5	i	i	ADP	_	_	6	case	_	_
@@ -14173,7 +14173,7 @@
 # newpar
 # sent_id = A1656
 # text = Anagar azwu, yettawin yettarra di tedmarin-nnsen, sellen-as.
-1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	advmod	_	_
+1	Anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 2	azwu	azwu	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	yettawin	awi	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	_
@@ -14521,7 +14521,7 @@
 18-20	yesnulfa-tt-id	_	_	_	_	_	_	_	SpaceAfter=No
 18	yesnulfa	esnulfu	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	_
 19	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	18	obl	_	_
-20	id	wu	PRON	_	PronType=Rel	19	advmod	_	_
+20	id	wu	PRON	_	PronType=Rel	19	obl	_	_
 21	,	,	PUNCT	_	_	22	punct	_	_
 22-23	irebba-tt	_	_	_	_	_	_	_	SpaceAfter=No
 22	irebba	erebba	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	conj	_	_
@@ -14578,7 +14578,7 @@
 # newpar
 # sent_id = A1675
 # text = Wa, akken ad yettḥarab ɣef tayri, ad teqqim kan akken tella.
-1	Wa	wu	PRON	_	PronType=Int	5	advmod	_	SpaceAfter=No
+1	Wa	wu	PRON	_	PronType=Int	5	obl	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	akken	akken	ADP	_	_	5	advmod	_	_
 4	ad	ad	PART	_	_	5	advmod	_	_
@@ -14743,7 +14743,7 @@
 5	ad	ad	PART	_	_	6	advmod	_	_
 6	ḥemmlen	eḥemmal	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	nsubj	_	_
 7	medden	medden	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	6	nmod	_	_
-8	winna	wina	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	advmod	_	_
+8	winna	wina	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obl	_	_
 9	yettɛassan	ettɛassan	VERB	VB	Tense=Pres|VerbForm=Part	6	acl	_	_
 10	tayri	tayri	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	12	case	_	_
 11	yesdukklen	esdukkal	VERB	VB	Tense=Past|VerbForm=Part	12	acl	_	_
@@ -14870,7 +14870,7 @@
 4	wi	wi	PRON	_	PronType=Int	3	nmod	_	_
 5	ur	ur	ADV	_	Polarity=Neg	6	advmod	_	_
 6	ssinen	essin	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	nmod	_	_
-7	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	advmod	_	_
+7	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	obl	_	_
 8	asɣugget	asɣugget	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
 9-10	deg	_	_	_	_	_	_	_	_
 9	ad	ad	PART	_	_	11	advmod	_	_
@@ -14967,7 +14967,7 @@
 # newpar
 # sent_id = A1696
 # text = Irebbiten ksanen wid i ten-itettun.
-1	Irebbiten	irebbiten	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	2	advmod	_	_
+1	Irebbiten	irebbiten	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	_
 2	ksanen	eksan	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	wid	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	5	case	_	_
 4	i	i	PRON	_	_	5	case	_	_
@@ -15288,7 +15288,7 @@
 7-9	ittmagar-iten-id	_	_	_	_	_	_	_	SpaceAfter=No
 7	ittmagar	emagar	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	det	_	_
 8	iten	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	2	det	_	Cycle=8
-9	id	wu	PRON	_	PronType=Rel	8	advmod	_	_
+9	id	wu	PRON	_	PronType=Rel	8	obl	_	_
 10	;	;	PUNCT	_	_	9	punct	_	_
 
 # newdoc
@@ -15300,7 +15300,7 @@
 3-5	tettuɣal-iten-id	_	_	_	_	_	_	_	SpaceAfter=No
 3	tettuɣal	uɣal	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
 4	iten	nutni	PRON	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Rel	2	acl	_	_
-5	id	wu	PRON	_	PronType=Rel	4	advmod	_	_
+5	id	wu	PRON	_	PronType=Rel	4	obl	_	_
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	taɛqel	ataɛqel	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	_
 8	wid	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	case	_	_
@@ -15309,7 +15309,7 @@
 11-13	rran-tt-id	_	_	_	_	_	_	_	_
 11	rran	arr	VERB	VB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	mark	_	Cycle=11
 12	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	11	mark	_	_
-13	id	wu	PRON	_	PronType=Rel	12	advmod	_	_
+13	id	wu	PRON	_	PronType=Rel	12	obl	_	_
 14	wid	widak	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	case	_	_
 15	teɛna	eɛnu	VERB	VB	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	obl	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	15	punct	_	_
@@ -17918,7 +17918,7 @@
 18-19	d-teffɣent	_	_	_	_	_	_	_	_
 18	d	ad	PART	_	_	19	advmod	_	_
 19	teffɣent	effaɣ	VERB	VB	Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
-20	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	advmod	_	_
+20	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	obl	_	_
 21	zdat	zdat	ADP	_	_	22	case	_	_
 22	nnmara	annmara	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	19	acl	_	_
 23	n	an	ADP	_	_	24	case	_	_
@@ -19031,7 +19031,7 @@
 # newpar
 # sent_id = A1947
 # text = Kra yettweḍran isefk ad yekk di tazwara ger ifassen-nnsen, ad as-selfen, ad a t-sselbubɣen, ad a t-ɛerken, si tiddukliwin, d yiɣmisen, alamma d ikabaren n tsertit, s yisem n « tegrawla » i sen-igan azal, i ten-yerran ttuseyyaden.
-1	Kra	akra	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	advmod	_	_
+1	Kra	akra	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 2	yettweḍran	ettweḍran	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	isefk	esefak	VERB	VB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	obl	_	_
 4	ad	ad	PART	_	_	5	advmod	_	_
@@ -19395,7 +19395,7 @@
 3-4	t-yettrajun	_	_	_	_	_	_	_	_
 3	t	netta	PRON	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	4	obj	_	_
 4	yettrajun	eraju	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	_
-5	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	advmod	_	_
+5	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
 6	netta	netta	PRON	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	Anezmar	anezmar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
@@ -19450,7 +19450,7 @@
 3	yellan	eql	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	_
 4	d	ad	DET	_	PronType=Art	5	advmod	_	_
 5	Unezmar	anezmar	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
-6	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	advmod	_	_
+6	anagar	anagar	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	_
 7	netta	netta	PRON	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	5	nmod	_	_
 8	dɣa	dɣa	ADV	_	_	9	advmod	_	_
 9	i	i	PRON	_	_	11	nsubj	_	_
@@ -19949,7 +19949,7 @@
 7	i	i	PRON	_	PronType=Rel	4	obl	_	_
 8-10	tt-id-yeflan	_	_	_	_	_	_	_	_
 8	tt	netta	PRON	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	10	obj	_	_
-9	id	wu	PRON	_	PronType=Rel	10	advmod	_	_
+9	id	wu	PRON	_	PronType=Rel	10	obl	_	_
 10	yeflan	eflu	VERB	VB	Tense=Pres|VerbForm=Part	0	root	_	_
 11	ur	ur	ADV	_	Polarity=Neg	12	advmod	_	_
 12-13	sent-tgi	_	_	_	_	_	_	_	_
